@@ -374,11 +374,13 @@ canvas.addEventListener('touchend', e => {
     if (!touchMoved && tapDuration < 300 && e.changedTouches.length === 1) {
         // Tap rápido = clique
         const touch = e.changedTouches[0];
+        let found = false;
         for (const node of nodes) {
             if (node.screenX && node.screenY) {
                 const dx = touch.clientX - node.screenX;
                 const dy = touch.clientY - node.screenY;
                 if (Math.sqrt(dx*dx + dy*dy) < node.screenR) {
+                    found = true;
                     const selectedNode = node;
                     const visibleRelations = edges.filter(e => 
                         e.from === selectedNode || e.to === selectedNode
@@ -407,6 +409,9 @@ canvas.addEventListener('touchend', e => {
                     break;
                 }
             }
+        }
+        if (!found && !filteredChar) {
+            document.getElementById('info').style.display = 'none';
         }
     }
     isDragging = false;
