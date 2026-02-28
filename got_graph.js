@@ -11,6 +11,8 @@ let filteredChar = null;
 let imageCache = {};
 let stars = [];
 let lastTouchDist = 0;
+let touchStartTime = 0;
+let touchMoved = false;
 
 document.getElementById('loading').style.display = 'none';
 document.getElementById('controls').style.display = 'block';
@@ -333,6 +335,8 @@ window.addEventListener('resize', () => {
 canvas.addEventListener('touchstart', e => {
     if (e.target !== canvas) return;
     e.preventDefault();
+    touchStartTime = Date.now();
+    touchMoved = false;
     if (e.touches.length === 1) {
         isDragging = true;
         lastX = e.touches[0].clientX;
@@ -347,6 +351,7 @@ canvas.addEventListener('touchstart', e => {
 canvas.addEventListener('touchmove', e => {
     if (e.target !== canvas) return;
     e.preventDefault();
+    touchMoved = true;
     if (e.touches.length === 1 && isDragging) {
         rotY += (e.touches[0].clientX - lastX) * 0.005;
         rotX += (e.touches[0].clientY - lastY) * 0.005;
@@ -365,6 +370,45 @@ canvas.addEventListener('touchmove', e => {
 });
 
 canvas.addEventListener('touchend', e => {
+    const tapDuration = Date.now() - touchStartTime;
+    if (!touchMoved && tapDuration < 300 && e.changedTouches.length === 1) {
+        // Tap rápido = clique
+        const touch = e.changedTouches[0];
+        for (const node of nodes) {
+            if (node.screenX && node.screenY) {
+                const dx = touch.clientX - node.screenX;
+                const dy = touch.clientY - node.screenY;
+                if (Math.sqrt(dx*dx + dy*dy) < node.screenR) {
+                    const selectedNode = node;
+                    const visibleRelations = edges.filter(e => 
+                        e.from === selectedNode || e.to === selectedNode
+                    ).length;
+                    
+                    const photoEl = document.getElementById('charPhoto');
+                    photoEl.src = `personagens_fotos/${selectedNode.name.toLowerCase()}_got.jpg`;
+                    photoEl.style.display = 'block';
+                    
+                    document.getElementById('charName').textContent = selectedNode.name;
+                    document.getElementById('charFalas').textContent = `Falas: ${selectedNode.falas}`;
+                    document.getElementById('charRelacoes').textContent = `Relações visíveis: ${visibleRelations}`;
+                    document.getElementById('info').style.display = 'block';
+                    
+                    const filterBtn = document.getElementById('filterBtn');
+                    filterBtn.textContent = 'Filtrar Relações';
+                    filterBtn.onclick = () => {
+                        if (filteredChar === selectedNode) {
+                            filteredChar = null;
+                            filterBtn.textContent = 'Filtrar Relações';
+                        } else {
+                            filteredChar = selectedNode;
+                            filterBtn.textContent = 'Mostrar Todos';
+                        }
+                    };
+                    break;
+                }
+            }
+        }
+    }
     isDragging = false;
     lastTouchDist = 0;
 });
