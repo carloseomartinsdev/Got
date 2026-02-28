@@ -1,0 +1,1896 @@
+{
+  "characters": [
+    {
+      "name": "TYRION",
+      "relations": 88,
+      "falas": 1642
+    },
+    {
+      "name": "DAENERYS",
+      "relations": 87,
+      "falas": 914
+    },
+    {
+      "name": "JON",
+      "relations": 78,
+      "falas": 913
+    },
+    {
+      "name": "CERSEI",
+      "relations": 74,
+      "falas": 917
+    },
+    {
+      "name": "JAIME",
+      "relations": 71,
+      "falas": 907
+    },
+    {
+      "name": "ARYA",
+      "relations": 64,
+      "falas": 703
+    },
+    {
+      "name": "SANSA",
+      "relations": 60,
+      "falas": 751
+    },
+    {
+      "name": "BRAN",
+      "relations": 54,
+      "falas": 333
+    },
+    {
+      "name": "SAM",
+      "relations": 51,
+      "falas": 401
+    },
+    {
+      "name": "TORMUND",
+      "relations": 47,
+      "falas": 220
+    },
+    {
+      "name": "BRONN",
+      "relations": 45,
+      "falas": 363
+    },
+    {
+      "name": "JORAH",
+      "relations": 45,
+      "falas": 301
+    },
+    {
+      "name": "THEON",
+      "relations": 45,
+      "falas": 424
+    },
+    {
+      "name": "DAVOS",
+      "relations": 42,
+      "falas": 520
+    },
+    {
+      "name": "BRIENNE",
+      "relations": 38,
+      "falas": 397
+    },
+    {
+      "name": "JOFFREY",
+      "relations": 37,
+      "falas": 210
+    },
+    {
+      "name": "CATELYN",
+      "relations": 36,
+      "falas": 180
+    },
+    {
+      "name": "ROBB",
+      "relations": 33,
+      "falas": 240
+    },
+    {
+      "name": "TYWIN",
+      "relations": 32,
+      "falas": 353
+    },
+    {
+      "name": "VARYS",
+      "relations": 31,
+      "falas": 345
+    },
+    {
+      "name": "GILLY",
+      "relations": 30,
+      "falas": 197
+    },
+    {
+      "name": "THE HOUND",
+      "relations": 30,
+      "falas": 159
+    },
+    {
+      "name": "RAMSAY",
+      "relations": 28,
+      "falas": 267
+    },
+    {
+      "name": "OLENNA",
+      "relations": 28,
+      "falas": 198
+    },
+    {
+      "name": "MELISANDRE",
+      "relations": 27,
+      "falas": 242
+    },
+    {
+      "name": "GREY WORM",
+      "relations": 27,
+      "falas": 121
+    },
+    {
+      "name": "MISSANDEI",
+      "relations": 26,
+      "falas": 184
+    },
+    {
+      "name": "JON SNOW",
+      "relations": 26,
+      "falas": 133
+    },
+    {
+      "name": "LITTLEFINGER",
+      "relations": 25,
+      "falas": 212
+    },
+    {
+      "name": "PODRICK",
+      "relations": 25,
+      "falas": 153
+    },
+    {
+      "name": "QYBURN",
+      "relations": 24,
+      "falas": 122
+    },
+    {
+      "name": "BAELISH",
+      "relations": 23,
+      "falas": 126
+    },
+    {
+      "name": "GENDRY",
+      "relations": 22,
+      "falas": 195
+    },
+    {
+      "name": "DAARIO",
+      "relations": 22,
+      "falas": 160
+    },
+    {
+      "name": "MARGAERY",
+      "relations": 22,
+      "falas": 282
+    },
+    {
+      "name": "MEERA",
+      "relations": 22,
+      "falas": 99
+    },
+    {
+      "name": "STANNIS",
+      "relations": 21,
+      "falas": 295
+    },
+    {
+      "name": "YARA",
+      "relations": 21,
+      "falas": 143
+    },
+    {
+      "name": "ELLARIA",
+      "relations": 21,
+      "falas": 62
+    },
+    {
+      "name": "GUARD",
+      "relations": 21,
+      "falas": 34
+    },
+    {
+      "name": "LORAS",
+      "relations": 19,
+      "falas": 76
+    },
+    {
+      "name": "NED",
+      "relations": 19,
+      "falas": 62
+    },
+    {
+      "name": "SANDOR",
+      "relations": 18,
+      "falas": 126
+    },
+    {
+      "name": "OBERYN",
+      "relations": 18,
+      "falas": 132
+    },
+    {
+      "name": "SOLDIER",
+      "relations": 18,
+      "falas": 33
+    },
+    {
+      "name": "LOCKE",
+      "relations": 17,
+      "falas": 62
+    },
+    {
+      "name": "PYCELLE",
+      "relations": 17,
+      "falas": 69
+    },
+    {
+      "name": "JANOS",
+      "relations": 17,
+      "falas": 51
+    },
+    {
+      "name": "ALLISER",
+      "relations": 17,
+      "falas": 41
+    },
+    {
+      "name": "HOUND",
+      "relations": 16,
+      "falas": 90
+    },
+    {
+      "name": "BERIC",
+      "relations": 16,
+      "falas": 104
+    },
+    {
+      "name": "GRENN",
+      "relations": 16,
+      "falas": 63
+    },
+    {
+      "name": "EDMURE",
+      "relations": 16,
+      "falas": 49
+    },
+    {
+      "name": "WALDER",
+      "relations": 16,
+      "falas": 56
+    },
+    {
+      "name": "SHAE",
+      "relations": 15,
+      "falas": 191
+    },
+    {
+      "name": "ROOSE",
+      "relations": 15,
+      "falas": 77
+    },
+    {
+      "name": "LANCEL",
+      "relations": 15,
+      "falas": 65
+    },
+    {
+      "name": "MACE",
+      "relations": 15,
+      "falas": 31
+    },
+    {
+      "name": "LYANNA",
+      "relations": 15,
+      "falas": 45
+    },
+    {
+      "name": "YGRITTE",
+      "relations": 14,
+      "falas": 177
+    },
+    {
+      "name": "OSHA",
+      "relations": 14,
+      "falas": 114
+    },
+    {
+      "name": "HIGH SPARROW",
+      "relations": 14,
+      "falas": 90
+    },
+    {
+      "name": "TOMMEN",
+      "relations": 13,
+      "falas": 123
+    },
+    {
+      "name": "JOJEN",
+      "relations": 13,
+      "falas": 76
+    },
+    {
+      "name": "AEMON",
+      "relations": 13,
+      "falas": 27
+    },
+    {
+      "name": "DOLOROUS EDD",
+      "relations": 13,
+      "falas": 51
+    },
+    {
+      "name": "RAST",
+      "relations": 13,
+      "falas": 28
+    },
+    {
+      "name": "JAQEN",
+      "relations": 12,
+      "falas": 120
+    },
+    {
+      "name": "TALISA",
+      "relations": 12,
+      "falas": 114
+    },
+    {
+      "name": "THOROS",
+      "relations": 12,
+      "falas": 112
+    },
+    {
+      "name": "LUWIN",
+      "relations": 12,
+      "falas": 54
+    },
+    {
+      "name": "EURON",
+      "relations": 12,
+      "falas": 90
+    },
+    {
+      "name": "BRYNDEN",
+      "relations": 12,
+      "falas": 50
+    },
+    {
+      "name": "OLYVAR",
+      "relations": 12,
+      "falas": 38
+    },
+    {
+      "name": "YOHN ROYCE",
+      "relations": 12,
+      "falas": 13
+    },
+    {
+      "name": "MERYN",
+      "relations": 12,
+      "falas": 20
+    },
+    {
+      "name": "BARRISTAN",
+      "relations": 11,
+      "falas": 69
+    },
+    {
+      "name": "HODOR",
+      "relations": 11,
+      "falas": 45
+    },
+    {
+      "name": "KEVAN",
+      "relations": 11,
+      "falas": 23
+    },
+    {
+      "name": "POLLIVER",
+      "relations": 11,
+      "falas": 27
+    },
+    {
+      "name": "RANDYLL",
+      "relations": 11,
+      "falas": 29
+    },
+    {
+      "name": "ALLISER THORNE",
+      "relations": 11,
+      "falas": 33
+    },
+    {
+      "name": "EDD",
+      "relations": 11,
+      "falas": 29
+    },
+    {
+      "name": "SHIREEN",
+      "relations": 10,
+      "falas": 92
+    },
+    {
+      "name": "HOT PIE",
+      "relations": 10,
+      "falas": 69
+    },
+    {
+      "name": "XARO",
+      "relations": 10,
+      "falas": 44
+    },
+    {
+      "name": "MYRCELLA",
+      "relations": 10,
+      "falas": 30
+    },
+    {
+      "name": "DORAN",
+      "relations": 10,
+      "falas": 28
+    },
+    {
+      "name": "RENLY",
+      "relations": 10,
+      "falas": 54
+    },
+    {
+      "name": "BENJEN",
+      "relations": 10,
+      "falas": 24
+    },
+    {
+      "name": "HIZDAHR",
+      "relations": 9,
+      "falas": 49
+    },
+    {
+      "name": "SAMWELL",
+      "relations": 9,
+      "falas": 99
+    },
+    {
+      "name": "TYENE",
+      "relations": 9,
+      "falas": 28
+    },
+    {
+      "name": "CRASTER",
+      "relations": 9,
+      "falas": 35
+    },
+    {
+      "name": "ROOSE BOLTON",
+      "relations": 9,
+      "falas": 49
+    },
+    {
+      "name": "JEOR",
+      "relations": 9,
+      "falas": 42
+    },
+    {
+      "name": "ROBERT",
+      "relations": 9,
+      "falas": 17
+    },
+    {
+      "name": "SER DONTOS",
+      "relations": 9,
+      "falas": 22
+    },
+    {
+      "name": "MANCE",
+      "relations": 8,
+      "falas": 66
+    },
+    {
+      "name": "ROS",
+      "relations": 8,
+      "falas": 44
+    },
+    {
+      "name": "RICKARD KARSTARK",
+      "relations": 8,
+      "falas": 31
+    },
+    {
+      "name": "ROBIN",
+      "relations": 8,
+      "falas": 29
+    },
+    {
+      "name": "PETYR",
+      "relations": 8,
+      "falas": 35
+    },
+    {
+      "name": "OLLY",
+      "relations": 8,
+      "falas": 25
+    },
+    {
+      "name": "VISERYS",
+      "relations": 8,
+      "falas": 16
+    },
+    {
+      "name": "CAPTAIN",
+      "relations": 8,
+      "falas": 16
+    },
+    {
+      "name": "RIDER",
+      "relations": 8,
+      "falas": 13
+    },
+    {
+      "name": "TRYSTANE",
+      "relations": 8,
+      "falas": 12
+    },
+    {
+      "name": "NYMERIA",
+      "relations": 8,
+      "falas": 13
+    },
+    {
+      "name": "HIGH SEPTON",
+      "relations": 8,
+      "falas": 17
+    },
+    {
+      "name": "LOTHAR",
+      "relations": 8,
+      "falas": 14
+    },
+    {
+      "name": "OBARA",
+      "relations": 8,
+      "falas": 18
+    },
+    {
+      "name": "SPARROW",
+      "relations": 7,
+      "falas": 61
+    },
+    {
+      "name": "SELYSE",
+      "relations": 7,
+      "falas": 46
+    },
+    {
+      "name": "MYRANDA",
+      "relations": 7,
+      "falas": 44
+    },
+    {
+      "name": "PYP",
+      "relations": 7,
+      "falas": 18
+    },
+    {
+      "name": "ANGUY",
+      "relations": 7,
+      "falas": 30
+    },
+    {
+      "name": "STYR",
+      "relations": 7,
+      "falas": 17
+    },
+    {
+      "name": "MAESTER AEMON",
+      "relations": 7,
+      "falas": 13
+    },
+    {
+      "name": "BLACK WALDER",
+      "relations": 7,
+      "falas": 17
+    },
+    {
+      "name": "ED",
+      "relations": 7,
+      "falas": 14
+    },
+    {
+      "name": "IZEMBARO",
+      "relations": 7,
+      "falas": 17
+    },
+    {
+      "name": "OLD MAN",
+      "relations": 7,
+      "falas": 14
+    },
+    {
+      "name": "WAIF",
+      "relations": 6,
+      "falas": 50
+    },
+    {
+      "name": "LADY CRANE",
+      "relations": 6,
+      "falas": 46
+    },
+    {
+      "name": "QHORIN",
+      "relations": 6,
+      "falas": 40
+    },
+    {
+      "name": "DAGMER",
+      "relations": 6,
+      "falas": 20
+    },
+    {
+      "name": "DICKON",
+      "relations": 6,
+      "falas": 17
+    },
+    {
+      "name": "ROBETT",
+      "relations": 6,
+      "falas": 14
+    },
+    {
+      "name": "KARL TANNER",
+      "relations": 6,
+      "falas": 24
+    },
+    {
+      "name": "LOBODA",
+      "relations": 6,
+      "falas": 13
+    },
+    {
+      "name": "MOSSADOR",
+      "relations": 6,
+      "falas": 13
+    },
+    {
+      "name": "MALKO",
+      "relations": 6,
+      "falas": 15
+    },
+    {
+      "name": "ROYCE",
+      "relations": 6,
+      "falas": 12
+    },
+    {
+      "name": "ALTON",
+      "relations": 5,
+      "falas": 34
+    },
+    {
+      "name": "BALON",
+      "relations": 5,
+      "falas": 42
+    },
+    {
+      "name": "KHAL MORO",
+      "relations": 5,
+      "falas": 20
+    },
+    {
+      "name": "ORELL",
+      "relations": 5,
+      "falas": 32
+    },
+    {
+      "name": "CAMELLO",
+      "relations": 5,
+      "falas": 17
+    },
+    {
+      "name": "RICKON",
+      "relations": 5,
+      "falas": 16
+    },
+    {
+      "name": "KARSI",
+      "relations": 5,
+      "falas": 13
+    },
+    {
+      "name": "YOREN",
+      "relations": 5,
+      "falas": 20
+    },
+    {
+      "name": "MERO",
+      "relations": 5,
+      "falas": 20
+    },
+    {
+      "name": "AMORY",
+      "relations": 5,
+      "falas": 14
+    },
+    {
+      "name": "WOLKAN",
+      "relations": 5,
+      "falas": 12
+    },
+    {
+      "name": "PYAT PREE",
+      "relations": 5,
+      "falas": 15
+    },
+    {
+      "name": "BOBONO",
+      "relations": 5,
+      "falas": 14
+    },
+    {
+      "name": "LYSA",
+      "relations": 4,
+      "falas": 45
+    },
+    {
+      "name": "MARWYN",
+      "relations": 4,
+      "falas": 57
+    },
+    {
+      "name": "SPICE KING",
+      "relations": 4,
+      "falas": 33
+    },
+    {
+      "name": "MATTHOS",
+      "relations": 4,
+      "falas": 30
+    },
+    {
+      "name": "TYCHO",
+      "relations": 4,
+      "falas": 34
+    },
+    {
+      "name": "THE TICKLER",
+      "relations": 4,
+      "falas": 13
+    },
+    {
+      "name": "LORD ROYCE",
+      "relations": 4,
+      "falas": 15
+    },
+    {
+      "name": "JANOS SLYNT",
+      "relations": 4,
+      "falas": 11
+    },
+    {
+      "name": "RODRIK",
+      "relations": 4,
+      "falas": 13
+    },
+    {
+      "name": "LORD OF BONES",
+      "relations": 4,
+      "falas": 13
+    },
+    {
+      "name": "DERRYK",
+      "relations": 4,
+      "falas": 11
+    },
+    {
+      "name": "ROZ",
+      "relations": 4,
+      "falas": 13
+    },
+    {
+      "name": "MELESSA",
+      "relations": 4,
+      "falas": 12
+    },
+    {
+      "name": "TANNER",
+      "relations": 4,
+      "falas": 25
+    },
+    {
+      "name": "RAY",
+      "relations": 3,
+      "falas": 34
+    },
+    {
+      "name": "DANY",
+      "relations": 3,
+      "falas": 24
+    },
+    {
+      "name": "SMALLJON",
+      "relations": 3,
+      "falas": 17
+    },
+    {
+      "name": "KRAZNYS MO NAKLOZ",
+      "relations": 3,
+      "falas": 15
+    },
+    {
+      "name": "KRAZNYS",
+      "relations": 3,
+      "falas": 21
+    },
+    {
+      "name": "LORD MORMONT",
+      "relations": 3,
+      "falas": 18
+    },
+    {
+      "name": "MOLE'S TOWN WHORE",
+      "relations": 3,
+      "falas": 12
+    },
+    {
+      "name": "PRISONER",
+      "relations": 3,
+      "falas": 12
+    },
+    {
+      "name": "ILLYRIO",
+      "relations": 3,
+      "falas": 13
+    },
+    {
+      "name": "LADY ANYA",
+      "relations": 3,
+      "falas": 14
+    },
+    {
+      "name": "RADZAL MO ERAZ",
+      "relations": 3,
+      "falas": 12
+    },
+    {
+      "name": "SER JORAH",
+      "relations": 2,
+      "falas": 21
+    },
+    {
+      "name": "SALLADHOR",
+      "relations": 2,
+      "falas": 15
+    },
+    {
+      "name": "WALDER FREY",
+      "relations": 2,
+      "falas": 13
+    },
+    {
+      "name": "SAAN",
+      "relations": 2,
+      "falas": 14
+    },
+    {
+      "name": "FARMER HAMLET",
+      "relations": 2,
+      "falas": 12
+    },
+    {
+      "name": "VIOLET",
+      "relations": 2,
+      "falas": 13
+    }
+  ],
+  "edges": [
+    {
+      "from": "TYRION",
+      "to": "VARYS",
+      "weight": 326
+    },
+    {
+      "from": "CERSEI",
+      "to": "JAIME",
+      "weight": 292
+    },
+    {
+      "from": "CERSEI",
+      "to": "TYRION",
+      "weight": 262
+    },
+    {
+      "from": "DAENERYS",
+      "to": "TYRION",
+      "weight": 254
+    },
+    {
+      "from": "BRIENNE",
+      "to": "JAIME",
+      "weight": 239
+    },
+    {
+      "from": "GILLY",
+      "to": "SAM",
+      "weight": 229
+    },
+    {
+      "from": "BRONN",
+      "to": "TYRION",
+      "weight": 227
+    },
+    {
+      "from": "DAENERYS",
+      "to": "JORAH",
+      "weight": 209
+    },
+    {
+      "from": "DAVOS",
+      "to": "STANNIS",
+      "weight": 205
+    },
+    {
+      "from": "BRONN",
+      "to": "JAIME",
+      "weight": 194
+    },
+    {
+      "from": "JAIME",
+      "to": "TYRION",
+      "weight": 193
+    },
+    {
+      "from": "SHAE",
+      "to": "TYRION",
+      "weight": 188
+    },
+    {
+      "from": "JON",
+      "to": "YGRITTE",
+      "weight": 182
+    },
+    {
+      "from": "DAENERYS",
+      "to": "JON",
+      "weight": 165
+    },
+    {
+      "from": "LITTLEFINGER",
+      "to": "SANSA",
+      "weight": 159
+    },
+    {
+      "from": "ARYA",
+      "to": "JAQEN",
+      "weight": 158
+    },
+    {
+      "from": "ROBB",
+      "to": "TALISA",
+      "weight": 156
+    },
+    {
+      "from": "RAMSAY",
+      "to": "THEON",
+      "weight": 143
+    },
+    {
+      "from": "ARYA",
+      "to": "GENDRY",
+      "weight": 139
+    },
+    {
+      "from": "DAARIO",
+      "to": "DAENERYS",
+      "weight": 136
+    },
+    {
+      "from": "JON",
+      "to": "SAM",
+      "weight": 130
+    },
+    {
+      "from": "TYRION",
+      "to": "TYWIN",
+      "weight": 130
+    },
+    {
+      "from": "BRIENNE",
+      "to": "PODRICK",
+      "weight": 130
+    },
+    {
+      "from": "THEON",
+      "to": "YARA",
+      "weight": 125
+    },
+    {
+      "from": "JON",
+      "to": "TYRION",
+      "weight": 124
+    },
+    {
+      "from": "ARYA",
+      "to": "SANSA",
+      "weight": 123
+    },
+    {
+      "from": "JON",
+      "to": "TORMUND",
+      "weight": 122
+    },
+    {
+      "from": "SANSA",
+      "to": "TYRION",
+      "weight": 110
+    },
+    {
+      "from": "CERSEI",
+      "to": "TYWIN",
+      "weight": 105
+    },
+    {
+      "from": "ARYA",
+      "to": "THE HOUND",
+      "weight": 102
+    },
+    {
+      "from": "DAVOS",
+      "to": "MELISANDRE",
+      "weight": 100
+    },
+    {
+      "from": "MELISANDRE",
+      "to": "STANNIS",
+      "weight": 93
+    },
+    {
+      "from": "JORAH",
+      "to": "TYRION",
+      "weight": 90
+    },
+    {
+      "from": "PODRICK",
+      "to": "TYRION",
+      "weight": 90
+    },
+    {
+      "from": "DAENERYS",
+      "to": "MISSANDEI",
+      "weight": 85
+    },
+    {
+      "from": "JON SNOW",
+      "to": "SANSA",
+      "weight": 83
+    },
+    {
+      "from": "BRAN",
+      "to": "OSHA",
+      "weight": 82
+    },
+    {
+      "from": "ARYA",
+      "to": "HOUND",
+      "weight": 82
+    },
+    {
+      "from": "SANSA",
+      "to": "SHAE",
+      "weight": 80
+    },
+    {
+      "from": "CERSEI",
+      "to": "QYBURN",
+      "weight": 79
+    },
+    {
+      "from": "CATELYN",
+      "to": "ROBB",
+      "weight": 78
+    },
+    {
+      "from": "JON",
+      "to": "MANCE",
+      "weight": 78
+    },
+    {
+      "from": "RAMSAY",
+      "to": "ROOSE",
+      "weight": 78
+    },
+    {
+      "from": "MARGAERY",
+      "to": "TOMMEN",
+      "weight": 77
+    },
+    {
+      "from": "DAVOS",
+      "to": "SHIREEN",
+      "weight": 77
+    },
+    {
+      "from": "JON",
+      "to": "SANSA",
+      "weight": 76
+    },
+    {
+      "from": "CUT TO",
+      "to": "TYRION",
+      "weight": 74
+    },
+    {
+      "from": "BAELISH",
+      "to": "SANSA",
+      "weight": 74
+    },
+    {
+      "from": "DAVOS",
+      "to": "GENDRY",
+      "weight": 72
+    },
+    {
+      "from": "CERSEI",
+      "to": "MARGAERY",
+      "weight": 71
+    },
+    {
+      "from": "GREY WORM",
+      "to": "MISSANDEI",
+      "weight": 71
+    },
+    {
+      "from": "MARGAERY",
+      "to": "OLENNA",
+      "weight": 70
+    },
+    {
+      "from": "JOFFREY",
+      "to": "TYRION",
+      "weight": 65
+    },
+    {
+      "from": "BARRISTAN",
+      "to": "DAENERYS",
+      "weight": 64
+    },
+    {
+      "from": "ARYA",
+      "to": "TYWIN",
+      "weight": 64
+    },
+    {
+      "from": "JON",
+      "to": "STANNIS",
+      "weight": 63
+    },
+    {
+      "from": "ARYA",
+      "to": "HOT PIE",
+      "weight": 61
+    },
+    {
+      "from": "BRAN",
+      "to": "JOJEN",
+      "weight": 60
+    },
+    {
+      "from": "DAENERYS",
+      "to": "HIZDAHR",
+      "weight": 59
+    },
+    {
+      "from": "DAARIO",
+      "to": "JORAH",
+      "weight": 59
+    },
+    {
+      "from": "CUT TO",
+      "to": "DAENERYS",
+      "weight": 57
+    },
+    {
+      "from": "JOFFREY",
+      "to": "MARGAERY",
+      "weight": 57
+    },
+    {
+      "from": "JAIME",
+      "to": "TYWIN",
+      "weight": 57
+    },
+    {
+      "from": "BAELISH",
+      "to": "CERSEI",
+      "weight": 56
+    },
+    {
+      "from": "LYSA",
+      "to": "SANSA",
+      "weight": 56
+    },
+    {
+      "from": "CERSEI",
+      "to": "TOMMEN",
+      "weight": 56
+    },
+    {
+      "from": "SANSA",
+      "to": "THEON",
+      "weight": 55
+    },
+    {
+      "from": "DAVOS",
+      "to": "JON",
+      "weight": 55
+    },
+    {
+      "from": "LANCEL",
+      "to": "TYRION",
+      "weight": 55
+    },
+    {
+      "from": "JAIME",
+      "to": "QYBURN",
+      "weight": 54
+    },
+    {
+      "from": "CERSEI",
+      "to": "CUT TO",
+      "weight": 54
+    },
+    {
+      "from": "CUT TO",
+      "to": "MAN",
+      "weight": 53
+    },
+    {
+      "from": "BERIC",
+      "to": "SANDOR",
+      "weight": 53
+    },
+    {
+      "from": "MARGAERY",
+      "to": "SANSA",
+      "weight": 53
+    },
+    {
+      "from": "CUT TO",
+      "to": "DAVOS",
+      "weight": 52
+    },
+    {
+      "from": "BRAN",
+      "to": "MEERA",
+      "weight": 51
+    },
+    {
+      "from": "OBERYN",
+      "to": "TYRION",
+      "weight": 51
+    },
+    {
+      "from": "CERSEI",
+      "to": "JOFFREY",
+      "weight": 50
+    },
+    {
+      "from": "CERSEI",
+      "to": "SPARROW",
+      "weight": 49
+    },
+    {
+      "from": "ARYA",
+      "to": "WAIF",
+      "weight": 49
+    },
+    {
+      "from": "BARRISTAN",
+      "to": "JORAH",
+      "weight": 49
+    },
+    {
+      "from": "OBERYN",
+      "to": "TYWIN",
+      "weight": 49
+    },
+    {
+      "from": "BRIENNE",
+      "to": "SANSA",
+      "weight": 48
+    },
+    {
+      "from": "DAVOS",
+      "to": "TYRION",
+      "weight": 48
+    },
+    {
+      "from": "MISSANDEI",
+      "to": "TYRION",
+      "weight": 48
+    },
+    {
+      "from": "GREY WORM",
+      "to": "TYRION",
+      "weight": 48
+    },
+    {
+      "from": "CERSEI",
+      "to": "SANSA",
+      "weight": 47
+    },
+    {
+      "from": "ALTON",
+      "to": "JAIME",
+      "weight": 45
+    },
+    {
+      "from": "MARWYN",
+      "to": "SAMWELL",
+      "weight": 45
+    },
+    {
+      "from": "CERSEI",
+      "to": "OLENNA",
+      "weight": 45
+    },
+    {
+      "from": "ROS",
+      "to": "VARYS",
+      "weight": 45
+    },
+    {
+      "from": "ARYA",
+      "to": "THOROS",
+      "weight": 45
+    },
+    {
+      "from": "CUT TO",
+      "to": "JON",
+      "weight": 45
+    },
+    {
+      "from": "DAENERYS",
+      "to": "SPICE KING",
+      "weight": 45
+    },
+    {
+      "from": "LITTLEFINGER",
+      "to": "TYRION",
+      "weight": 44
+    },
+    {
+      "from": "DAENERYS",
+      "to": "XARO",
+      "weight": 44
+    },
+    {
+      "from": "JAIME",
+      "to": "LOCKE",
+      "weight": 43
+    },
+    {
+      "from": "LUWIN",
+      "to": "THEON",
+      "weight": 42
+    },
+    {
+      "from": "CERSEI",
+      "to": "EURON",
+      "weight": 42
+    },
+    {
+      "from": "SANDOR",
+      "to": "THOROS",
+      "weight": 42
+    },
+    {
+      "from": "SHIREEN",
+      "to": "STANNIS",
+      "weight": 41
+    },
+    {
+      "from": "HIGH SPARROW",
+      "to": "MARGAERY",
+      "weight": 40
+    },
+    {
+      "from": "ARYA",
+      "to": "JON",
+      "weight": 40
+    },
+    {
+      "from": "PYCELLE",
+      "to": "TYRION",
+      "weight": 39
+    },
+    {
+      "from": "OLENNA",
+      "to": "TYWIN",
+      "weight": 39
+    },
+    {
+      "from": "DAENERYS",
+      "to": "VARYS",
+      "weight": 39
+    },
+    {
+      "from": "GENDRY",
+      "to": "MELISANDRE",
+      "weight": 39
+    },
+    {
+      "from": "ARYA",
+      "to": "CUT TO",
+      "weight": 38
+    },
+    {
+      "from": "DAVOS",
+      "to": "MATTHOS",
+      "weight": 38
+    },
+    {
+      "from": "ARYA",
+      "to": "LADY CRANE",
+      "weight": 38
+    },
+    {
+      "from": "JON",
+      "to": "QHORIN",
+      "weight": 38
+    },
+    {
+      "from": "CERSEI",
+      "to": "OBERYN",
+      "weight": 37
+    },
+    {
+      "from": "GRENN",
+      "to": "SAM",
+      "weight": 37
+    },
+    {
+      "from": "CUT TO",
+      "to": "SANSA",
+      "weight": 36
+    },
+    {
+      "from": "JOFFREY",
+      "to": "TYWIN",
+      "weight": 36
+    },
+    {
+      "from": "RICKARD KARSTARK",
+      "to": "ROBB",
+      "weight": 36
+    },
+    {
+      "from": "ARYA",
+      "to": "BRIENNE",
+      "weight": 36
+    },
+    {
+      "from": "CERSEI",
+      "to": "LANCEL",
+      "weight": 36
+    },
+    {
+      "from": "JOFFREY",
+      "to": "SANSA",
+      "weight": 36
+    },
+    {
+      "from": "SELYSE",
+      "to": "STANNIS",
+      "weight": 35
+    },
+    {
+      "from": "BALON",
+      "to": "THEON",
+      "weight": 35
+    },
+    {
+      "from": "BRIENNE",
+      "to": "MAN",
+      "weight": 34
+    },
+    {
+      "from": "LORAS",
+      "to": "MARGAERY",
+      "weight": 34
+    },
+    {
+      "from": "RAMSAY",
+      "to": "SANSA",
+      "weight": 34
+    },
+    {
+      "from": "OLENNA",
+      "to": "VARYS",
+      "weight": 33
+    },
+    {
+      "from": "JANOS",
+      "to": "TYRION",
+      "weight": 33
+    },
+    {
+      "from": "JAIME",
+      "to": "MYRCELLA",
+      "weight": 33
+    },
+    {
+      "from": "CERSEI",
+      "to": "PYCELLE",
+      "weight": 33
+    },
+    {
+      "from": "BRAN",
+      "to": "HODOR",
+      "weight": 33
+    },
+    {
+      "from": "INT",
+      "to": "TYRION",
+      "weight": 32
+    },
+    {
+      "from": "GILLY",
+      "to": "SAMWELL",
+      "weight": 32
+    },
+    {
+      "from": "CERSEI",
+      "to": "HIGH SPARROW",
+      "weight": 32
+    },
+    {
+      "from": "BRAN",
+      "to": "THEON",
+      "weight": 32
+    },
+    {
+      "from": "DAENERYS",
+      "to": "SANSA",
+      "weight": 32
+    },
+    {
+      "from": "ROBIN",
+      "to": "SANSA",
+      "weight": 32
+    },
+    {
+      "from": "BRAN",
+      "to": "SAM",
+      "weight": 32
+    },
+    {
+      "from": "JON",
+      "to": "SAMWELL",
+      "weight": 31
+    },
+    {
+      "from": "CUT TO",
+      "to": "JAIME",
+      "weight": 31
+    },
+    {
+      "from": "CERSEI",
+      "to": "TYCHO",
+      "weight": 31
+    },
+    {
+      "from": "OLENNA",
+      "to": "TYRION",
+      "weight": 30
+    },
+    {
+      "from": "RAY",
+      "to": "SANDOR",
+      "weight": 30
+    },
+    {
+      "from": "DANY",
+      "to": "SER JORAH",
+      "weight": 30
+    },
+    {
+      "from": "MELISANDRE",
+      "to": "SELYSE",
+      "weight": 30
+    },
+    {
+      "from": "BRAN",
+      "to": "SANSA",
+      "weight": 29
+    },
+    {
+      "from": "BRIENNE",
+      "to": "CATELYN",
+      "weight": 29
+    },
+    {
+      "from": "ARYA",
+      "to": "BERIC",
+      "weight": 29
+    },
+    {
+      "from": "SANSA",
+      "to": "THE HOUND",
+      "weight": 29
+    },
+    {
+      "from": "SANDOR",
+      "to": "TORMUND",
+      "weight": 28
+    },
+    {
+      "from": "BRAN",
+      "to": "CUT TO",
+      "weight": 28
+    },
+    {
+      "from": "ALLISER",
+      "to": "JON",
+      "weight": 28
+    },
+    {
+      "from": "EDMURE",
+      "to": "ROBB",
+      "weight": 28
+    },
+    {
+      "from": "LITTLEFINGER",
+      "to": "TYWIN",
+      "weight": 28
+    },
+    {
+      "from": "JAIME",
+      "to": "OLENNA",
+      "weight": 27
+    },
+    {
+      "from": "DAVOS",
+      "to": "SALLADHOR",
+      "weight": 27
+    },
+    {
+      "from": "BRONN",
+      "to": "PODRICK",
+      "weight": 27
+    },
+    {
+      "from": "HIGH SPARROW",
+      "to": "TOMMEN",
+      "weight": 27
+    },
+    {
+      "from": "PETYR",
+      "to": "SANSA",
+      "weight": 26
+    },
+    {
+      "from": "CATELYN",
+      "to": "NED",
+      "weight": 26
+    },
+    {
+      "from": "RAMSAY",
+      "to": "SMALLJON",
+      "weight": 26
+    },
+    {
+      "from": "MYRANDA",
+      "to": "SANSA",
+      "weight": 26
+    },
+    {
+      "from": "DAGMER",
+      "to": "THEON",
+      "weight": 26
+    },
+    {
+      "from": "ARYA",
+      "to": "MAN",
+      "weight": 26
+    },
+    {
+      "from": "DAVOS",
+      "to": "TORMUND",
+      "weight": 25
+    },
+    {
+      "from": "KRAZNYS MO NAKLOZ",
+      "to": "MISSANDEI",
+      "weight": 25
+    },
+    {
+      "from": "BRAN",
+      "to": "TYRION",
+      "weight": 25
+    },
+    {
+      "from": "TORMUND",
+      "to": "YGRITTE",
+      "weight": 25
+    },
+    {
+      "from": "BRONN",
+      "to": "TYENE",
+      "weight": 25
+    },
+    {
+      "from": "AEMON",
+      "to": "SAM",
+      "weight": 25
+    },
+    {
+      "from": "MEERA",
+      "to": "OSHA",
+      "weight": 25
+    },
+    {
+      "from": "KRAZNYS",
+      "to": "MISSANDEI",
+      "weight": 24
+    },
+    {
+      "from": "OBERYN",
+      "to": "VARYS",
+      "weight": 24
+    },
+    {
+      "from": "BERIC",
+      "to": "THOROS",
+      "weight": 24
+    },
+    {
+      "from": "JAIME",
+      "to": "TOMMEN",
+      "weight": 24
+    },
+    {
+      "from": "SHAE",
+      "to": "VARYS",
+      "weight": 24
+    },
+    {
+      "from": "OLENNA",
+      "to": "SPARROW",
+      "weight": 24
+    },
+    {
+      "from": "DORAN",
+      "to": "ELLARIA",
+      "weight": 24
+    },
+    {
+      "from": "CERSEI",
+      "to": "KEVAN",
+      "weight": 24
+    },
+    {
+      "from": "EXT",
+      "to": "INT",
+      "weight": 23
+    },
+    {
+      "from": "BALON",
+      "to": "YARA",
+      "weight": 23
+    },
+    {
+      "from": "LITTLEFINGER",
+      "to": "LYSA",
+      "weight": 23
+    },
+    {
+      "from": "TOMMEN",
+      "to": "TYWIN",
+      "weight": 23
+    },
+    {
+      "from": "CRASTER",
+      "to": "LORD MORMONT",
+      "weight": 23
+    },
+    {
+      "from": "OSHA",
+      "to": "THEON",
+      "weight": 23
+    },
+    {
+      "from": "HOUND",
+      "to": "POLLIVER",
+      "weight": 23
+    },
+    {
+      "from": "EXT",
+      "to": "TYRION",
+      "weight": 23
+    },
+    {
+      "from": "ROBB",
+      "to": "ROOSE BOLTON",
+      "weight": 22
+    },
+    {
+      "from": "ELLARIA",
+      "to": "OBERYN",
+      "weight": 22
+    },
+    {
+      "from": "EDMURE",
+      "to": "JAIME",
+      "weight": 22
+    },
+    {
+      "from": "JON",
+      "to": "THEON",
+      "weight": 22
+    },
+    {
+      "from": "BRIENNE",
+      "to": "HOT PIE",
+      "weight": 22
+    },
+    {
+      "from": "CATELYN",
+      "to": "TALISA",
+      "weight": 21
+    },
+    {
+      "from": "MELISANDRE",
+      "to": "SHIREEN",
+      "weight": 21
+    },
+    {
+      "from": "HODOR",
+      "to": "MEERA",
+      "weight": 21
+    },
+    {
+      "from": "DAENERYS",
+      "to": "KHAL MORO",
+      "weight": 21
+    },
+    {
+      "from": "DAVOS",
+      "to": "JON SNOW",
+      "weight": 21
+    },
+    {
+      "from": "OLLY",
+      "to": "SAM",
+      "weight": 21
+    },
+    {
+      "from": "LITTLEFINGER",
+      "to": "MARGAERY",
+      "weight": 21
+    },
+    {
+      "from": "CUT TO",
+      "to": "TORMUND",
+      "weight": 20
+    },
+    {
+      "from": "JORAH",
+      "to": "SAMWELL",
+      "weight": 20
+    },
+    {
+      "from": "CUT TO",
+      "to": "WOMAN",
+      "weight": 20
+    }
+  ]
+}
